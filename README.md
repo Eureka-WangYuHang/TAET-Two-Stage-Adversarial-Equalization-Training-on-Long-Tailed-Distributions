@@ -76,13 +76,12 @@ Our code implementation is based on the repositories from [AT-BSL](https://githu
 
 If you find our work useful, please consider citing our paper:
 ```
-@misc{yuhang2025taettwostageadversarialequalization,
-      title={TAET: Two-Stage Adversarial Equalization Training on Long-Tailed Distributions}, 
-      author={Wang YuHang and Junkang Guo and Aolei Liu and Kaihao Wang and Zaitong Wu and Zhenyu Liu and Wenfei Yin and Jian Liu},
-      year={2025},
-      eprint={2503.01924},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2503.01924}, 
+@InProceedings{Yu-Hang_2025_CVPR,
+    author    = {Yu-Hang, Wang and Guo, Junkang and Liu, Aolei and Wang, Kaihao and Wu, Zaitong and Liu, Zhenyu and Yin, Wenfei and Liu, Jian},
+    title     = {TAET: Two-Stage Adversarial Equalization Training on Long-Tailed  Distributions},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {15476-15485}
 }
 ```
