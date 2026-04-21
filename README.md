@@ -71,9 +71,6 @@ Additionally, we provide a standalone implementation of Hierarchical Adversarial
 
 Our code implementation is based on the repositories from [AT-BSL](https://github.com/NISPLab/AT-BSL) and [TRADES](https://github.com/yaodongyu/TRADES). We sincerely thank the authors for making their code publicly available.
 
-## Contact
-
-If you have any question, please email `wangyuhang@mail.hfut.edu.cn`and`wangkaihao500@gmail.com`.
 
 ## Citation
 
